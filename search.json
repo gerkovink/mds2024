@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "mywork.html",
-    "href": "mywork.html",
-    "title": "My Work",
-    "section": "",
-    "text": "Welcome to my work page! Here you can find a list of my work experience and education.\n\nPublications\nThis year Hanne Oberman and I published a paper on the evaluation of imputation routines. You should read it! You may find it here.\nAlso, together with Mingyang Cai and Stef van Buuren, we published another paper. Find it yourself."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gerko Vink",
@@ -26,5 +19,12 @@
     "title": "Gerko Vink",
     "section": "Experience",
     "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "mywork.html",
+    "href": "mywork.html",
+    "title": "My Work",
+    "section": "",
+    "text": "Welcome to my work page! Here you can find a list of my work experience and education.\n\nPublications\nThis year Hanne Oberman and I published a paper on the evaluation of imputation routines. You should read it! You may find it here.\nAlso, together with Mingyang Cai and Stef van Buuren, we published another paper. Find it yourself."
   }
 ]
